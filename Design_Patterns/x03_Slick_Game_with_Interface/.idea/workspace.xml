@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="" />
+    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/Homer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/SnowflakeActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +85,8 @@
       <workItem from="1697532241730" duration="613000" />
       <workItem from="1697533801152" duration="87000" />
       <workItem from="1697534848105" duration="2877000" />
-      <workItem from="1697789613047" duration="638000" />
+      <workItem from="1697789613047" duration="250000" />
+      <workItem from="1697791463040" duration="2966000" />
     </task>
     <servers />
   </component>
