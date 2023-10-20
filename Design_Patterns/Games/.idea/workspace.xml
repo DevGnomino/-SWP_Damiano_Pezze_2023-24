@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/MainGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/actors/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/actors/CircleActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/actors/OvalActor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/actors/RectActor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x01_First_Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../x01_First_Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,22 +19,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1YTQfL2MEkLFTDMSD3qqivUvMBV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/SWP_Damiano_Pezze_2023-24/Design_Patterns/Games",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/SWP_Damiano_Pezze_2023-24/Design_Patterns/x02_First_Game_with_OO&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AlphaMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.newdawn.slick.tests.AlphaMapTest" />
@@ -60,6 +69,9 @@
       <option name="presentableId" value="Default" />
       <updated>1582964206231</updated>
       <workItem from="1697531661370" duration="86000" />
+      <workItem from="1697531974255" duration="48000" />
+      <workItem from="1697532123115" duration="5000" />
+      <workItem from="1697532656427" duration="30000" />
     </task>
     <servers />
   </component>

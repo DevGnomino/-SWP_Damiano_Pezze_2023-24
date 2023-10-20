@@ -7,8 +7,6 @@
     <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Games/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Games/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/pezze/games/wintergame/MainGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/pezze/games/wintergame/MainGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/wintergame/MainGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/wintergame/MainGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/MainGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/MainGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/actors/Actor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/src/at/pezze/games/some_game/actors/Actor.java" afterDir="false" />
@@ -90,7 +88,8 @@
       <workItem from="1697532123115" duration="5000" />
       <workItem from="1697532656427" duration="30000" />
       <workItem from="1697532941795" duration="852000" />
-      <workItem from="1697533889795" duration="1662000" />
+      <workItem from="1697533889795" duration="2253000" />
+      <workItem from="1697706658435" duration="23000" />
     </task>
     <servers />
   </component>
