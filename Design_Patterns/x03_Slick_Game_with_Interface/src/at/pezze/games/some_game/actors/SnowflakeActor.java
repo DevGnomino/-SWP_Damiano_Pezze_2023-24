@@ -13,6 +13,7 @@ public class SnowflakeActor implements Actor{
     private float x;
     private float y;
     private float speed;
+    private float horizontal;
     private int dir = 0;
     Random rand;
 
@@ -24,17 +25,18 @@ public class SnowflakeActor implements Actor{
     public SnowflakeActor(Size size) {
         super();
         this.rand = new Random();
-        this.x = rand.nextInt(800) + 1;
+        this.x = rand.nextInt(780) + 1;
         this.y = rand.nextInt(100);
         this.size = size;
         this.speed = rand.nextInt(1000) * 0.0002f;
+        this.horizontal = (rand.nextInt(200 + 100) - 200) * 0.0002f; //random zwischen -200 und 200
 
         if(this.size == Size.small){
             this.width = this.height = 10;
         } else if(this.size == Size.medium){
-            this.width = this.height = 25;
+            this.width = this.height = 20;
         } else if(this.size == Size.big){
-            this.width = this.height = 40;
+            this.width = this.height = 35;
         }
     }
 
@@ -48,6 +50,7 @@ public class SnowflakeActor implements Actor{
     public void update(GameContainer gameContainer, int delta) throws SlickException {
         if (this.dir == 0){
             this.y += delta * speed;
+            this.x += delta * horizontal;
             if (this.y >= 600){
                 this.dir = 1;
             }

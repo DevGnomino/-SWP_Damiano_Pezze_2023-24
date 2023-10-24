@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/Homer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/SnowflakeActor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../x02_First_Game_with_OO/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/MainGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/MainGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/SnowflakeActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/SnowflakeActor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -87,10 +88,16 @@
       <workItem from="1697534848105" duration="2877000" />
       <workItem from="1697789613047" duration="250000" />
       <workItem from="1697791463040" duration="2966000" />
+      <workItem from="1697826310286" duration="16000" />
+      <workItem from="1698146383230" duration="1156000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
   </component>
 </project>
