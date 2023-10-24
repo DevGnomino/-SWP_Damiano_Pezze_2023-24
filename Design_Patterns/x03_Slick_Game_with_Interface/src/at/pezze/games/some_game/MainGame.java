@@ -46,7 +46,6 @@ public class MainGame extends BasicGame {
 
     }
 
-
     public static void main(String[] argv) {
         try {
             AppGameContainer container = new AppGameContainer(new MainGame("First Game"));

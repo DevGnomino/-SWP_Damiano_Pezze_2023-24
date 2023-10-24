@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="">
+    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Implemented Interface to Slick Game">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/MainGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/MainGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/SnowflakeActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/SnowflakeActor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/SWP_Damiano_Pezze_2023-24/Design_Patterns/x03_Slick_Game_with_Interface",
+    "last_opened_file_path": "C:/SWP_Damiano_Pezze_2023-24/Design_Patterns/x04_Slick_Strategy_Pattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,8 +88,26 @@
       <workItem from="1697789613047" duration="250000" />
       <workItem from="1697791463040" duration="2966000" />
       <workItem from="1697826310286" duration="16000" />
-      <workItem from="1698146383230" duration="1156000" />
+      <workItem from="1698146383230" duration="1691000" />
+      <workItem from="1698148180679" duration="16000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented Interface to Slick Game">
+      <option name="closed" value="true" />
+      <created>1698147888969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698147888969</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implemented Interface to Slick Game">
+      <option name="closed" value="true" />
+      <created>1698147909554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698147909554</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,5 +116,9 @@
   <component name="UnknownFeatures">
     <option featureType="dependencySupport" implementationName="executable:docker" />
     <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented Interface to Slick Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Interface to Slick Game" />
   </component>
 </project>
