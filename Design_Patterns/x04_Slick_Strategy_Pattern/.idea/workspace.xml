@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Implemented Abstract Class to Slick Game">
+      <change afterPath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/factory/RandomSnowflakeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/actors/AbstractActor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/actors/Homer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/actors/Observer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/actors/OvalActor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/actors/PlayerActor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/actors/RectActor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/strategies/MoveLeft.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/strategies/MoveRight.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../x04_Slick_Strategy_Pattern/src/at/pezze/games/some_game/strategies/MoveStrategy.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="1YTQfL2MEkLFTDMSD3qqivUvMBV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/SWP_Damiano_Pezze_2023-24/Design_Patterns/x06_Slick_Factory_Pattern",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="at.pezze.games.some_game.actors" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="AlphaMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.newdawn.slick.tests.AlphaMapTest" />
+      <module name="Slick2DTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.newdawn.slick.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AlphaMapTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="" />
+      <created>1582964206231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582964206231</updated>
+      <workItem from="1697531661370" duration="86000" />
+      <workItem from="1697531974255" duration="48000" />
+      <workItem from="1697532123115" duration="5000" />
+      <workItem from="1697532241730" duration="613000" />
+      <workItem from="1697533801152" duration="87000" />
+      <workItem from="1697534848105" duration="2877000" />
+      <workItem from="1697789613047" duration="250000" />
+      <workItem from="1697791463040" duration="2966000" />
+      <workItem from="1697826310286" duration="16000" />
+      <workItem from="1698146383230" duration="1691000" />
+      <workItem from="1698148197966" duration="3858000" />
+      <workItem from="1699363909472" duration="44000" />
+    </task>
+    <task id="LOCAL-00001" summary="Implemented Interface to Slick Game">
+      <option name="closed" value="true" />
+      <created>1698147888969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698147888969</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implemented Interface to Slick Game">
+      <option name="closed" value="true" />
+      <created>1698147909554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698147909554</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implemented Strategy Pattern to Slick Game">
+      <option name="closed" value="true" />
+      <created>1698152023787</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698152023787</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Implemented Abstract Class to Slick Game">
+      <option name="closed" value="true" />
+      <created>1698153377903</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698153377903</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Implemented Interface to Slick Game" />
+    <MESSAGE value="Implemented Strategy Pattern to Slick Game" />
+    <MESSAGE value="Implemented Abstract Class to Slick Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Abstract Class to Slick Game" />
+  </component>
+</project>
