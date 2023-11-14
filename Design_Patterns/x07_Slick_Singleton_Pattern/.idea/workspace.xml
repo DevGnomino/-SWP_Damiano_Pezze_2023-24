@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Implemented Abstract Class to Slick Game">
-      <change afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/singleton/CounterSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../x06_Slick_Factory_Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../x06_Slick_Factory_Pattern/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../x05_Observer_Pattern_Heizung/src/Home/AwningController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../x05_Observer_Pattern_Heizung/src/Home/HeatController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../x05_Observer_Pattern_Heizung/src/Home/Observer.java" beforeDir="false" />
@@ -43,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/SWP_Damiano_Pezze_2023-24/Design_Patterns/x07_Slick_Singleton_Pattern",
+    "last_opened_file_path": "C:/SWP_Damiano_Pezze_2023-24/Design_Patterns/x06_Slick_Factory_Pattern",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -102,6 +100,7 @@
       <workItem from="1698148197966" duration="3858000" />
       <workItem from="1699363909472" duration="44000" />
       <workItem from="1699613144035" duration="942000" />
+      <workItem from="1699967543853" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented Interface to Slick Game">
       <option name="closed" value="true" />
