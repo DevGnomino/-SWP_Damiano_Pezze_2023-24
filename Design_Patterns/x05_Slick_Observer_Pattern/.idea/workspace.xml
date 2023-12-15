@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eeecc374-2f49-41db-98a7-4767e2469b53" name="Default Changelist" comment="Implemented Abstract Class to Slick Game">
-      <change afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/PlayerActor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/pezze/games/some_game/MainGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/pezze/games/some_game/MainGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/pezze/games/some_game/strategies/MoveLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Slick2DTemplate/at/pezze/games/some_game/strategies/MoveLeft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/MainGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/MainGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/CircleActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/CircleActor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/OvalActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/OvalActor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/RectActor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/actors/RectActor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/strategies/MoveLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/strategies/MoveLeft.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/at/pezze/games/some_game/strategies/MoveRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/at/pezze/games/some_game/strategies/MoveRight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../x05_Observer_Pattern_Heizung/src/Home/AwningController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../x05_Observer_Pattern_Heizung/src/Home/HeatController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../x05_Observer_Pattern_Heizung/src/Home/Observer.java" beforeDir="false" />
@@ -112,6 +102,8 @@
       <workItem from="1699363909472" duration="44000" />
       <workItem from="1699368038387" duration="21000" />
       <workItem from="1699368889246" duration="2414000" />
+      <workItem from="1700038336163" duration="68000" />
+      <workItem from="1701787339620" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="Implemented Interface to Slick Game">
       <option name="closed" value="true" />
